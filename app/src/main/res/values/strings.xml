@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab 3 Frases Celebres</string>
+    <string name="generar_no">Generar No.</string>
+    <string name="label_numero"></string>
+    <string name="mostrar_frase">Mostrar Frase</string>
+    <string name="nombre_autor">Nombre Autor</string>
+    <string name="frase_autor_label">Frase Autor Label</string>
+    <string name="boton_regresar_label">Regresar</string>
+
+
+    <string name="action_number_zero">¡Genera un número al azar!</string>
+
+    <string name="camus">Albert Camus</string>
+    <string name="benedetti">Mario Benedetti</string>
+    <string name="hitchcok">Alfred Hitchcock</string>
+
+    <string name="fraseCamus">\"Pero al final, uno necesita más coraje para vivir que para quitarse la vida\"</string>
+    <string name="fraseBenedetti">\"Usted es la respuesta que yo esperaba a una pregunta que nunca he formulado\"</string>
+    <string name="fraseHitchcock">\"Estoy seguro que a cualquiera le gusta un buen crimen, siempre que no sea la víctima\"</string>
+</resources>
